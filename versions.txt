@@ -5,6 +5,7 @@ dependabot_npm_and_yarn_site_braces-3.0.3
 dependabot_npm_and_yarn_site_micromatch-4.0.8
 dependabot_npm_and_yarn_site_multi-bb7f497bb7
 dependabot_npm_and_yarn_site_nanoid-3.3.8
+dependabot_npm_and_yarn_site_next-14.2.15
 dependabot_npm_and_yarn_site_semver-6.3.1
 dependabot_npm_and_yarn_site_word-wrap-1.2.5
 feature_dependency_update
